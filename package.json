@@ -1,7 +1,7 @@
 {
-    "name": "HoangVanMinh",
+    "name": "Miadia Project",
     "version": "1.2.14",
-    "description": "HoangVanMinh",
+    "description": "Miadia Project",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
